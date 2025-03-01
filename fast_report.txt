@@ -1,7 +1,0 @@
-Ping results:
----------------------------------- 
-REACHABLE - 8.8.8.8 
-REACHABLE - 8.8.4.4 
-REACHABLE - 8.8.8.8 
-REACHABLE - 8.8.4.4 
-UNREACHABLE - test vm.local.domain.it 
